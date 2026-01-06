@@ -1,5 +1,5 @@
 
-ShallWe Play – Cypress API Automation Framework
+Cypress API Automation Framework
 =============================================
 
 This repository contains Cypress-based API automation test scripts for the ShallWe Play backend APIs.
