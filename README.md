@@ -38,7 +38,7 @@ Tech Stack
 
 Folder Structure
 ----------------
-
+```
 shallwe-cypress/
 ├── cypress/
 │   ├── e2e/
@@ -53,7 +53,7 @@ shallwe-cypress/
 ├── cypress.config.js
 ├── package.json
 └── README.md
-
+```
 ----------------------------------------------------------------
 
 How to Run the Project
