@@ -12,4 +12,4 @@ Notes:
 - Some requests may need manual adjustments (file uploads, dynamic path variables).
 - Tests created per Postman request; filenames mirror collection names.
 
-This package was automatically generated from the uploaded Postman collection. If you want further polishing (grouped tests, better assertions, TypeScript), tell me.
+
