@@ -2,7 +2,7 @@
 Cypress API Automation Framework
 =============================================
 
-This repository contains Cypress-based API automation test scripts for the ShallWe Play backend APIs.
+This repository contains Cypress-based API automation test scripts for the backend APIs.
 The framework is generated from the Postman collection and enhanced to support authentication,
 environment handling, reusable commands, and scalable test structure.
 
@@ -134,36 +134,6 @@ Postman to Cypress Conversion Notes
 
 ----------------------------------------------------------------
 
-Known Limitations
------------------
-
-- File upload APIs may need additional handling
-- Webhook APIs require valid external triggers
-- Some test cases depend on existing test data
-
-----------------------------------------------------------------
-
-Troubleshooting
----------------
-
-401 Unauthorized:
-- Ensure adminLogin() is executed
-- Verify the token is passed correctly in request headers
-
-Environment variable undefined:
-- Check cypress.config.js
-- Restart Cypress after configuration changes
-
-No spec files found:
-- Verify files exist under cypress/e2e/
-
-----------------------------------------------------------------
-
-Ownership and Maintenance
--------------------------
-
-Automation Type: Backend API Automation  
-Maintained By: QA Team  
 
 Execution Use Cases:
 - Regression testing
